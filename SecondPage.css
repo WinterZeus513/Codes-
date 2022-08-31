@@ -1,0 +1,30 @@
+#olcar{
+    color: #d3d3d3;
+}
+
+.olmotor{
+    color: green;
+}
+
+.Toyota{
+
+    background-color: blue;
+}
+
+.Honda{
+
+    background-color: royalblue;
+}
+
+.signUpButton{
+    border-radius: 10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color: #4267B2;
+    font-family: cursive;
+    color: #fff;
+    border:none;
+    
+}
